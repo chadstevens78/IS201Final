@@ -1,0 +1,15 @@
+body {
+    background-image: url("../images/Background2.jpg"); 
+}
+.video {
+   display: inline-block; 
+}
+
+
+.ourteam {
+    font-family:Georgia;
+    font-size: larger;
+}
+.myresume {
+    font-family: 'Times New Roman', Times, serif;
+}

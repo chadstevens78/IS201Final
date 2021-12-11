@@ -1,0 +1,28 @@
+
+body {
+    background-color: antiquewhite;
+}
+
+.my_header{
+    width: 100vw;
+    height: 250px;
+}
+.my_body{
+    width:80vw;
+    margin-left:auto;
+    margin-right:auto;
+}
+.my_footer{
+    width:100vw;
+    height:50px;
+    background-color: white;
+    opacity: 30%;   
+    
+}
+.new_class{
+    text-align: center;
+}
+.tableautitle {
+    text-align: center;
+    
+}
